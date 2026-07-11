@@ -1,7 +1,7 @@
 <h3 align="center">Building intelligent systems & scalable AI architectures.</h3>
 
 <div align="center">
-  <a href="https://omshreecchoudhary.tech" target="_blank">
+  <a href="https://omshreechoudhary.tech" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-4f46e5?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/om-shree" target="_blank">
