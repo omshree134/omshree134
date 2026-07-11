@@ -1,20 +1,16 @@
-
-
 <h3 align="center">Building intelligent systems & scalable AI architectures.</h3>
 
 <p align="center">
-  <a href="https://portfolio-omshree.web.app"><kbd> <br> 🌐 Visit Portfolio <br> </kbd></a>&ensp;
-  <a href="https://linkedin.com/in/om-shree"><kbd> <br> 💼 LinkedIn Profile <br> </kbd></a>&ensp;
-  <a href="mailto:omshreechoudhary7@gmail.com"><kbd> <br> 📧 Email Me <br> </kbd></a>
+  <a href="https://portfolio-omshree.web.app" target="_blank"><kbd> <br> 🌐 Visit Portfolio <br> </kbd></a>&ensp;
+  <a href="https://linkedin.com/in/om-shree" target="_blank"><kbd> <br> 💼 LinkedIn Profile <br> </kbd></a>&ensp;
+  <a href="mailto:omshreechoudhary7@gmail.com" target="_blank"><kbd> <br> 📧 Email Me <br> </kbd></a>
 </p>
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omshree134&theme=dark&hide_border=true&background=0D1117&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omshree134&bg_color=0D1117&color=4f46e5&line=4f46e5&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://img.shields.io/github/repos/omshree134?style=for-the-badge&color=0D1117&logo=github&logoColor=white&label=Public%20Repos" alt="Public Repos" />
+  <img src="https://img.shields.io/github/followers/omshree134?style=for-the-badge&color=0D1117&logo=github&logoColor=white&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Lines_of_Code-~210.5k-0D1117?style=for-the-badge&logo=code&logoColor=white" alt="Lines of Code" />
 </div>
 
 <br/>
