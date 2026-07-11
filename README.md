@@ -1,5 +1,3 @@
-
-
 <h3 align="center">Building intelligent systems & scalable AI architectures.</h3>
 
 <div align="center">
@@ -29,7 +27,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,dart,flutter&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,react,fastapi,firebase,mongodb,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,react,fastapi,firebase,mongodb,git&theme=dark" />
 </p>
 
 <br/>
+
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omshree134&color=4f46e5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=100&section=footer" />
+</div>
