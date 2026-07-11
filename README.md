@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=200&section=header&text=Hi,%20I'm%20Om%20Shree%20Choudhary!&fontSize=50&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff" />
-</div>
+
 
 <h3 align="center">Building intelligent systems & scalable AI architectures.</h3>
 
@@ -35,17 +33,3 @@
 </p>
 
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omshree134&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f111a" alt="Om's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omshree134&theme=tokyonight&hide_border=true&background=0f111a" alt="Om's Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=100&section=footer" />
-</div>
