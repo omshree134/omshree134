@@ -1,7 +1,9 @@
+
+
 <h3 align="center">Building intelligent systems & scalable AI architectures.</h3>
 
 <div align="center">
-  <a href="https://omshreechoudhary.tech" target="_blank">
+  <a href="https://portfolio-omshree.web.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-4f46e5?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/om-shree" target="_blank">
@@ -11,6 +13,35 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+<br/>
+
+```text
+omshree@profile --------------------------------------------
+. OS: ...................... Windows 11, Android 14, Ubuntu
+. Uptime: .................. 21 years, 5 months, 29 days
+. Host: .................... RNS Institute of Technology
+. Kernel: ........ B.E. Computer Science - AI & ML Student
+. IDE: ..................... VSCode, PyCharm, Jupyter
+
+. Languages.Programming: ... Python, C, C++, JavaScript, Dart
+. Languages.Computer: ...... HTML, CSS, JSON, LaTeX, YAML
+. Languages.Real: .......... English, Hindi
+
+. Hobbies.Software: ........ AI/ML, Data Engineering, App Dev
+. Hobbies.Hardware: ........ IoT, Microcontrollers
+
+- Contact --------------------------------------------------
+. Email: ................... omshreechoudhary7@gmail.com
+. LinkedIn: ................ om-shree
+. GitHub: .................. omshree134
+. Portfolio: ............... portfolio-omshree.web.app
+```
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omshree134&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 <br/>
 
