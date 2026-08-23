@@ -1,14 +1,13 @@
 <h3 align="center">Building intelligent systems & scalable AI architectures.</h3>
 
 <p align="center">
-  <a href="https://portfolio-omshree.web.app" target="_blank"><kbd> <br> 🌐 Visit Portfolio <br> </kbd></a>&ensp;
+  <a href="https://omshreechoudhary.tech" target="_blank"><kbd> <br> 🌐 Visit Portfolio <br> </kbd></a>&ensp;
   <a href="https://linkedin.com/in/om-shree" target="_blank"><kbd> <br> 💼 LinkedIn Profile <br> </kbd></a>&ensp;
   <a href="mailto:omshreechoudhary7@gmail.com" target="_blank"><kbd> <br> 📧 Email Me <br> </kbd></a>
 </p>
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/github/repos/omshree134?style=for-the-badge&color=0D1117&logo=github&logoColor=white&label=Public%20Repos" alt="Public Repos" />
   <img src="https://img.shields.io/github/followers/omshree134?style=for-the-badge&color=0D1117&logo=github&logoColor=white&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/badge/Lines_of_Code-~210.5k-0D1117?style=for-the-badge&logo=code&logoColor=white" alt="Lines of Code" />
 </div>
