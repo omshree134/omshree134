@@ -14,15 +14,15 @@
 
 <br/>
 
-### 👨‍💻 About Me
-- 🎓 I am a student at **RNS Institute of Technology**, Bengaluru (B.E. Computer Science - AI & ML).
-- 🏆 **Winner of the Smart India Hackathon (SIH) 2025** for my work on Anuvad ASR.
-- 💡 My work sits at the intersection of **deep learning, data engineering**, and **scalable application development**.
-- 🚀 From developing real-time accessibility tools for the government to architecting supply chain intelligence platforms, I build solutions that matter.
+### About Me
+- I am a student at **RNS Institute of Technology**, Bengaluru (B.E. Computer Science - AI & ML).
+- **Winner of the Smart India Hackathon (SIH) 2025** for my work on Anuvad ASR.
+- My work sits at the intersection of **deep learning, data engineering**, and **scalable application development**.
+- From developing real-time accessibility tools for the government to architecting supply chain intelligence platforms, I build solutions that matter.
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,dart,flutter&theme=dark" />
